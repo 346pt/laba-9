@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Numerics;
 
+//int a
 Auto auto = new Auto();
 Train train = new Train();
 Plane1 plane = new Plane1();
